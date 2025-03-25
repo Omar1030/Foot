@@ -3,12 +3,12 @@
 A simple and stylish shoe store website built using **HTML** and **CSS**. This project showcases a fully responsive and visually appealing design for an online shoe shop.
 
 ## 📖 Table of Contents
-- [Installation]
-- [Usage]
-- [Technologies Used]
-- [Accessibility Improvements]
-- [License]
-- [Contact]
+- Installation
+- Usage
+- Technologies Used
+- Accessibility Improvements
+- License
+- Contact
 
 ---
 
