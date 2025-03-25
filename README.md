@@ -16,8 +16,7 @@ A simple and stylish shoe store website built using **HTML** and **CSS**. This p
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/yourusername/shoe-store-website.git
-   cd shoe-store-website](https://github.com/Omar1030/Foot.git)
+   git clone https://github.com/Omar1030/Foot.git
    ```
 2. **Open the project**
    - Open `index.html` in your preferred browser.
