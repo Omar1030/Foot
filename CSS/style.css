@@ -46,6 +46,10 @@ button {
     border: none;
 }
 
+a {
+    text-decoration: none;
+}
+
 /* ===== End Global Rules ===== */
 
 
@@ -84,7 +88,7 @@ button {
     transition: var(--transition-duration);
 }
 
-#header #nav-items ul li:hover,
+#header #nav-items ul li:hover a,
 #header #nav-icons ul li:hover {
     cursor: pointer;
     color: var(--alt-main-color);
@@ -96,10 +100,16 @@ button {
 
 #header #nav-items ul li {
     font-size: 18px;
+    margin: 0px 10px;
 }
 
 #header #nav-items ul li:first-of-type {
     color: var(--main-color);
+}
+
+#header #nav-items ul li a {
+    transition: var(--transition-duration);
+    color: var(--dark-gray);
 }
 
 
